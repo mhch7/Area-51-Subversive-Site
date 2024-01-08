@@ -1,0 +1,41 @@
+body{
+    
+    background-color:red;
+
+    font-family: ba, Helvetica, sans-serif;
+
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+@font-face{
+    font-family: ba;
+    src:url(assets/ba.ttf)
+ }
+
+
+
+
+h1{
+    font-size: 40px;
+}
+
+h2,h3,h4{
+    font-size: 30px;
+}
+
+h5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 27px;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+
